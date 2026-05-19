@@ -109,10 +109,10 @@ sudo pacman -S kitty
 # DAFTAR PUSTAKA
 - https://wiki.archlinux.org/title/Arch_Linux_(Bahasa_Indonesia) 
 - https://wiki.archlinux.org/title/NetworkManager 
-https://wiki.archlinux.org/title/KDE#Plasma 
-https://wiki.archlinux.org/title/PipeWire 
-https://wiki.archlinux.org/title/Dolphin 
-https://wiki.archlinux.org/title/Kitty 
+- https://wiki.archlinux.org/title/KDE#Plasma 
+- https://wiki.archlinux.org/title/PipeWire 
+- https://wiki.archlinux.org/title/Dolphin 
+- https://wiki.archlinux.org/title/Kitty 
 
 <p align="center"><b>TAHUN 2026</b></p>
 

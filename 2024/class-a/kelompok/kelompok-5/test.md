@@ -124,7 +124,7 @@ swapon /dev/nvme0np7
 
 https://wiki.archlinux.org/title/Partitioning#Example_layouts
 
-## Format partisi
+## Mount partisi
 mount root ke ```/mnt```
 ```
 mount /dev/nvme0np8 /mnt

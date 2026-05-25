@@ -310,6 +310,7 @@ echo "mutia ALL=(ALL:ALL) ALL" > /etc/sudoers.d/mutia
 ```
 nvim /etc/security/pam_mount.conf.xml
 ```
+```
 <logout wait="0" hup="no" term="no" kill="no" />
 <volume 
     user="[user name]" 
@@ -318,13 +319,15 @@ nvim /etc/security/pam_mount.conf.xml
     mountpoint="/home/user]" 
 />
 ```
+```
 nvim /etc/pam.d/system-login
 ```
-
+```
 nvim /etc/pam.d/system-login
 ```
-
+```
 > sama kan dengan code yang dibawah
+```
 ```
 #%PAM-1.0
 

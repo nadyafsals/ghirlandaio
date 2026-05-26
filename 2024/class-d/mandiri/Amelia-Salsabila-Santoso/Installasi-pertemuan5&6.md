@@ -88,7 +88,7 @@ passwd….
 
 Menambahkan user
 useradd -m amelia [perkondisian]
-passwd nuraini
+passwd amelia
 echo nuraini 'ALL=(ALL:ALL) ALL' >> /etc/sudoers.d/none
 Itu untuk shortcut nambahin cammand file
 
@@ -107,4 +107,15 @@ umount -R /mnt
 
 reboot
 Setelah laptop mati cabut flashdisk 
+
+<img width="1280" height="960" alt="1000052193" src="https://github.com/user-attachments/assets/df6cd37e-eb7e-491a-af2f-e1b3fa7271cb" />
+<img width="1280" height="960" alt="1000052192" src="https://github.com/user-attachments/assets/a8c64156-c513-447b-809b-1273b136c574" />
+<img width="1280" height="960" alt="1000052190" src="https://github.com/user-attachments/assets/7a8e689d-b4ae-4052-ac4c-dfe17277d760" />
+<img width="720" height="1280" alt="1000052189" src="https://github.com/user-attachments/assets/5883109c-5bf7-4c09-b50b-d43e3a9460d3" />
+<img width="1280" height="720" alt="1000052188" src="https://github.com/user-attachments/assets/7c12b616-43f0-4bb9-93f4-c4446f053409" />
+<img width="1280" height="720" alt="1000052187" src="https://github.com/user-attachments/assets/b65e2c2f-d522-428f-9f83-fe47e63200b8" />
+<img width="720" height="1280" alt="1000052185" src="https://github.com/user-attachments/assets/c5faaae6-217b-4958-a718-3c990d3fe319" />
+<img width="1280" height="720" alt="1000052186" src="https://github.com/user-attachments/assets/035d6886-550c-43ca-ade7-4cd1c2fb3c52" />
+<img width="1280" height="960" alt="1000052184" src="https://github.com/user-attachments/assets/633c639d-46c6-438d-b0f8-9a82eb289267" />
+
 

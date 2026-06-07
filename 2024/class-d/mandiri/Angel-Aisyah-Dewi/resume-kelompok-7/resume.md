@@ -1,3 +1,8 @@
+## Nama: Angel Aisyah Dewi
+## NIM: 12402051030095
+## Kelas: 4D
+## Mata kuliah: Arsip dan Perpustakaan Digital
+
 ## LVM on LUKS vs LUKS on LVM
 Dua cara berbeda buat gabungin enkripsi disk (LUKS) sama manajemen volume (LVM). LVM on LUKS: enkrip dulu baru dibagi, cukup satu kunci buat semua. LUKS on LVM: dibagi dulu baru tiap bagian dienkrip sendiri, jadi lebih aman tapi lebih ribet.
 

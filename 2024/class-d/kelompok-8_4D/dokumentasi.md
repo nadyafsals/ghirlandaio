@@ -93,7 +93,7 @@ lvcreate -l50%FREE system -n dock
 ```
 ### Memformat Lv yang sudah dibuat
 ```
-mkfs.vfat -F32 -S 4096 -n BOOT /dev/sda5 (partisi boot/yg kecil)
+mkfs.vfat -F32 -n BOOT /dev/sda5 (partisi boot/yg kecil)
 mkfs.ext4 /dev/system/root
 mkfs.ext4 /dev/system/vars
 mkfs.ext4 /dev/system/vlog
@@ -122,7 +122,10 @@ mount --mkdir -o rw,nodev,nosuid,noexec,relatime /dev/system/home /mnt/home
 ```
 mount --mkdir -o rw,nodev,nosuid,noexec,relatime /dev/system/dock /mnt/var/lib/docker
 ```
-
+```
+lsblk
+```
+untuk cek lagi 
 ### Instalasi Sistem Dasar Blackbird Amanda Linux
 ```
 pacstrap /mnt base linux-hardened linux-hardened-headers intel-ucode linux-firmware neovim lvm2 mkinitcpio sudo pacman curl which iwd grep firewalld
